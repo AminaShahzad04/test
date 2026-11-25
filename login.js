@@ -11,5 +11,5 @@ form.addEventListener("submit", (event) => {
   message.textContent =
     email && password
       ? `Signed in as ${email} (demo only).`
-      : "Enter an email and password.";
+      : "Enter an emaiccl and password.";
 });
